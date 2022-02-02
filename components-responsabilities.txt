@@ -1,0 +1,25 @@
+Components and responsabilities
+
+
+-Info
+
+changes his class depending on action state
+
+
+-Display
+Receives a value and renders the value unless it's delete
+
+
+-Action
+
+A single component that toggles between 2 state
+changes his text content and class onclick
+
+Keryboard
+
+-be a container for key
+
+-Key
+
+ Its a component with 2 states on and off
+ Onclick he will return his value 
